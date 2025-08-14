@@ -14,42 +14,49 @@
   "chapters": {
     "chapter-1": {
       "volume": "WN",
+      "display_chapter": 1,
       "title": "I just want an ordinary life!",
       "last_updated": 1754821731418,
       "url": "ch1.mdx"
     },
     "chapter-2": {
       "volume": "WN",
+      "display_chapter": 2,
       "title": "Childhood friends are such a pain.",
       "last_updated": 1754882258714,
       "url": "ch2.mdx"
     },
     "chapter-3": {
       "volume": "WN",
+      "display_chapter": 3,
       "title": "Lust over love for her child.",
       "last_updated": 1754884213250,
       "url": "ch3.mdx"
     },
     "chapter-4": {
       "volume": "WN",
+      "display_chapter": 4,
       "title": "If you say you're going to run away.",
       "last_updated": 1754885398083,
       "url": "ch4.mdx"
     },
     "chapter-5": {
       "volume": "WN",
+      "display_chapter": 5,
       "title": "New Life",
       "last_updated": 1754904826122,
       "url": "ch5.mdx"
     },
     "chapter-6": {
       "volume": "WN",
+      "display_chapter": 7,
       "title": "Friend",
       "last_updated": 1754967892004,
       "url": "ch6.mdx"
     },
     "chapter-7": {
       "volume": "WN",
+      "display_chapter": 7,
       "title": "Talent",
       "last_updated": 1755048467384,
       "url": "ch7.mdx"
