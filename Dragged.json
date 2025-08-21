@@ -2,7 +2,8 @@
   "title": "[WN] Dragged Into Another World, But Bad Luck Isn’t the End of My Story",
   "author": "Snow chrysanthemum",
   "artist": "Ruki",
-  "description": "\"I just want an ordinary life!\"\nA reincarnated man with a knack for getting dragged into trouble stumbles through a fantastical new world!\n\n\"I–I’m terribly sorry…!! There’s been a mistake!!\"\nDragged into an otherworldly summoning and killed in the process, an ordinary man finds himself strong-armed into reincarnation whether he likes it or not as the breathtakingly beautiful boy, Harold.\n\nDetermined to make the best of it, Harold adopts a personal motto: “Live within my means.” His plan? A quiet, unremarkable life as a rural commoner.\n\nThe problem? The goddess who took a liking to him insists on saddling him with “gifts” like the Favor of the Goddess Forte, Alchemist, Dimensional Storage, and Magic Eye (Appraisal). Oh, and his innate Green Hand skill? Turns out that’s a legendary ability in this world.\n\nBefore he knows it, Harold is shipped off to the Royal Academy in the capital—a place for nobles and other skilled youths—under compulsory enrollment. All he wants is a peaceful school life with his new friends… but special powers have a way of attracting special problems.\n\nFrom winning over fairies that haven’t shown themselves in decades, to accidentally solving a royal family’s age-old dilemma, Harold keeps standing out in all the wrong ways.\n\nCan he ever achieve the humble, peaceful life he longs for—or will the world keep pulling him center stage?",  "cover": "https://i.redd.it/1s16bo2746if1.jpg",
+  "description": "\"I just want an ordinary life!\"\nA reincarnated man with a knack for getting dragged into trouble stumbles through a fantastical new world!\n\n\"I–I’m terribly sorry…!! There’s been a mistake!!\"\nDragged into an otherworldly summoning and killed in the process, an ordinary man finds himself strong-armed into reincarnation whether he likes it or not as the breathtakingly beautiful boy, Harold.\n\nDetermined to make the best of it, Harold adopts a personal motto: “Live within my means.” His plan? A quiet, unremarkable life as a rural commoner.\n\nThe problem? The goddess who took a liking to him insists on saddling him with “gifts” like the Favor of the Goddess Forte, Alchemist, Dimensional Storage, and Magic Eye (Appraisal). Oh, and his innate Green Hand skill? Turns out that’s a legendary ability in this world.\n\nBefore he knows it, Harold is shipped off to the Royal Academy in the capital—a place for nobles and other skilled youths—under compulsory enrollment. All he wants is a peaceful school life with his new friends… but special powers have a way of attracting special problems.\n\nFrom winning over fairies that haven’t shown themselves in decades, to accidentally solving a royal family’s age-old dilemma, Harold keeps standing out in all the wrong ways.\n\nCan he ever achieve the humble, peaceful life he longs for—or will the world keep pulling him center stage?",
+  "cover": "https://i.redd.it/1s16bo2746if1.jpg",
   "genres": [
     "Fantasy",
     "Romance",
@@ -12,82 +13,26 @@
   ],
   "status": "Ongoing",
   "chapters": {
-    "chapter-1": {
-      "volume": "WN",
-      "display_chapter": 1,
-      "title": "I just want an ordinary life!",
-      "last_updated": 1754821731418,
-      "url": "ch1.mdx"
-    },
-    "chapter-2": {
-      "volume": "WN",
-      "display_chapter": 2,
-      "title": "Childhood friends are such a pain.",
-      "last_updated": 1754882258714,
-      "url": "ch2.mdx"
-    },
-    "chapter-3": {
-      "volume": "WN",
-      "display_chapter": 3,
-      "title": "Lust over love for her child.",
-      "last_updated": 1754884213250,
-      "url": "ch3.mdx"
-    },
-    "chapter-4": {
-      "volume": "WN",
-      "display_chapter": 4,
-      "title": "If you say you're going to run away.",
-      "last_updated": 1754885398083,
-      "url": "ch4.mdx"
-    },
-    "chapter-5": {
-      "volume": "WN",
-      "display_chapter": 5,
-      "title": "New Life",
-      "last_updated": 1754904826122,
-      "url": "ch5.mdx"
-    },
-    "chapter-6": {
-      "volume": "WN",
-      "display_chapter": 6,
-      "title": "Friend",
-      "last_updated": 1754967892004,
-      "url": "ch6.mdx"
-    },
-    "chapter-7": {
-      "volume": "WN",
-      "display_chapter": 7,
-      "title": "Talent",
-      "last_updated": 1755048467384,
-      "url": "ch7.mdx"
-    },
-    "chapter-8": {
-      "volume": "WN",
-      "display_chapter": 8,
-      "title": "Winter Preparations",
-      "last_updated": 1755186212801,
-      "url": "ch8.mdx"
-    },
-    "chapter-9": {
-      "volume": "WN",
-      "display_chapter": 9,
-      "title": "Surviving the winter",
-      "last_updated": 1755272639950,
-      "url": "ch9.mdx"
-    },
-    "chapter-10": {
-      "volume": "WN",
-      "display_chapter": 10,
-      "title": "The Goddess and the Skill",
-      "last_updated": 1755444394256,
-      "url": "ch10.mdx"
-    },
-    "chapter-11": {
-      "volume": "WN",
-      "display_chapter": 11,
-      "title": "Adventurer Work",
-      "last_updated": 1755529685131,
-      "url": "ch11.mdx"
-    }
+    "chapter-1": { "volume": "WN", "display_chapter": 1, "title": "I just want an ordinary life!", "last_updated": 1754821731418, "url": "ch1.mdx" },
+    "chapter-2": { "volume": "WN", "display_chapter": 2, "title": "Childhood friends are such a pain.", "last_updated": 1754882258714, "url": "ch2.mdx" },
+    "chapter-3": { "volume": "WN", "display_chapter": 3, "title": "Lust over love for her child.", "last_updated": 1754884213250, "url": "ch3.mdx" },
+    "chapter-4": { "volume": "WN", "display_chapter": 4, "title": "If you say you're going to run away.", "last_updated": 1754885398083, "url": "ch4.mdx" },
+    "chapter-5": { "volume": "WN", "display_chapter": 5, "title": "New Life", "last_updated": 1754904826122, "url": "ch5.mdx" },
+    "chapter-6": { "volume": "WN", "display_chapter": 6, "title": "Friend", "last_updated": 1754967892004, "url": "ch6.mdx" },
+    "chapter-7": { "volume": "WN", "display_chapter": 7, "title": "Talent", "last_updated": 1755048467384, "url": "ch7.mdx" },
+    "chapter-8": { "volume": "WN", "display_chapter": 8, "title": "Winter Preparations", "last_updated": 1755186212801, "url": "ch8.mdx" },
+    "chapter-9": { "volume": "WN", "display_chapter": 9, "title": "Surviving the winter", "last_updated": 1755272639950, "url": "ch9.mdx" },
+    "chapter-10": { "volume": "WN", "display_chapter": 10, "title": "The Goddess and the Skill", "last_updated": 1755444394256, "url": "ch10.mdx" },
+    "chapter-11": { "volume": "WN", "display_chapter": 11, "title": "Adventurer Work", "last_updated": 1755529685131, "url": "ch11.mdx" }
+  },
+  "premium_chapters": {
+    "chapter-12": { "volume": "WN", "display_chapter": 12, "title": "Adv", "last_updated": 1755610000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-12--Adv-T6T51JQSM2" },
+    "chapter-13": { "volume": "WN", "display_chapter": 13, "title": "Mon", "last_updated": 1755620000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-13--Mon-X8X31JQSRM" },
+    "chapter-14": { "volume": "WN", "display_chapter": 14, "title": "In", "last_updated": 1755630000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-14--In-H2H71JQSU8" },
+    "chapter-15": { "volume": "WN", "display_chapter": 15, "title": "Enr", "last_updated": 1755640000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-15--Enr-W7W71JQSVX" },
+    "chapter-16": { "volume": "WN", "display_chapter": 16, "title": "The", "last_updated": 1755650000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-16--The-P5P01JQSYK" },
+    "chapter-18": { "volume": "WN", "display_chapter": 18, "title": "A G", "last_updated": 1755660000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-18--A-G-T6T81JQTEC" },
+    "chapter-19": { "volume": "WN", "display_chapter": 19, "title": "Mov", "last_updated": 1755670000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-19--Mov-N4N01JQTG6" },
+    "chapter-20": { "volume": "WN", "display_chapter": 20, "title": "Wha", "last_updated": 1755680000000, "url": "https://ko-fi.com/post/WN-Dragged-Into-Another-World--Chapter-20--Wha-B0B41JUFDJ" }
   }
 }
